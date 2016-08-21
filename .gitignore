@@ -1,0 +1,17 @@
+assets/
+autoconfig/
+cheats/
+database/
+filters/
+info/
+overlays/
+playlists/
+saves/
+screenshots/
+shaders/
+states/
+system/
+*.cfg
+!*.dll
+!*.exe
+retroarch_debug.exe
